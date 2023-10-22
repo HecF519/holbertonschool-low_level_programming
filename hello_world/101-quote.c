@@ -1,5 +1,5 @@
 #include <stdio.h>
-#inclued <unistd.h>
+#include <unistd.h>
 /**
  * main - printing without printf and puts
  * Return: always (1)
