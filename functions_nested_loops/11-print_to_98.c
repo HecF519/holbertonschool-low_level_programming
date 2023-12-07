@@ -8,7 +8,7 @@
  * Return: Always 0.
  */
 
-void print_to_98(int m)
+void print_to_98(int n)
 
 {
 
@@ -44,4 +44,4 @@ void print_to_98(int m)
 	}
 	}
 	}
-	}
+}
